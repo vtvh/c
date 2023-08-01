@@ -1,0 +1,3 @@
+Window: web http track: httrack, hoc t
+
+inurl:download.php?file=site:”vn”
